@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Bluetooth Energy</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="disconnecting">Disconnecting</string>
+    <string name="connecting">Connecting</string>
+    <string name="device_alert">Device Alert</string>
+    <string name="rssi">RSSI: %d</string>
+    <string name="distance_in_meters">*Distance in meters</string>
+    <string name="bluetooth_must_be_enable">Bluetooth must be enabled.</string>
+    <string name="gps_must_be_enable">GPS must be enabled.</string>
+    <string name="please_activate_your_gps">Please activate your GPS to scan the bluetooth devices</string>
+    <string name="please_activate_your_bluetooth">Please active your bluetooth</string>
+    <string name="active_gps">Active GPS</string>
+    <string name="active_ble">Active Bluetooth</string>
+    <string name="not_now">Not now</string>
+</resources>
